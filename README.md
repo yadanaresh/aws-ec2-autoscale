@@ -66,3 +66,5 @@ Contributions are welcome! If you find issues or improvements, feel free to open
 
 This Terraform script is licensed under the [MIT License](LICENSE).
 
+"I have created a blog post with detailed, step-by-step guidance. You can refer to the blog https://dev.to/nareshaws/a-step-by-step-guide-to-aws-ec2-auto-scaling-3hej for additional information."
+
