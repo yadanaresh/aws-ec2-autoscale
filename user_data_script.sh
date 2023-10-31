@@ -3,7 +3,7 @@ sudo yum update -y
 sudo yum install -y httpd
 sudo service httpd start
 sudo chkconfig on
-sudo chmod -r 755 /var/www/
+sudo chmod -R 755 /var/www/
 
 cat <<HTML > /var/www/html/index.html
 <!DOCTYPE html>
